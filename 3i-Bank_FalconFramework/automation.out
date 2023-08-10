@@ -1,0 +1,256 @@
+2023-07-27 17:56:42 INFO  TestBase:172 - Static Initalization done
+2023-07-27 17:56:42 INFO  UtilityMethods:1333 - Report folder structure created : D:\FlexibPlus\DigitalAutomation\3i-Bank_FalconFramework\Report\Regv1_Run573_27072023
+2023-07-27 17:56:42 INFO  TestBase:206 - Loading xls Object
+2023-07-27 17:56:42 INFO  TestBase:843 - RECORDINGGGGGGGGGGGGGGGGGGGGGGGGG NOT NEEDED
+2023-07-27 17:56:42 INFO  TestBase:45 - Loading extent report done
+2023-07-27 17:56:42 INFO  TestBase:254 - Removed Sheet
+2023-07-27 17:56:42 INFO  TestBase:257 - Added Sheet
+2023-07-27 17:56:42 INFO  Xls_Reader:1330 - Creating empty sheet for report
+2023-07-27 17:56:42 INFO  TestBase:260 - Created Sheet
+2023-07-27 17:56:42 INFO  Xls_Reader:1229 - Started===getExcelDataInArrayForProcessing===
+2023-07-27 17:56:42 INFO  TestBase:323 - TESTCASENAME TC_001_CreditRiskAdd
+2023-07-27 17:56:42 INFO  TestBase:323 - createTest method called : TC_001_CreditRiskAdd_DataSet1_Desktop_Chrome
+2023-07-27 17:56:42 INFO  TestBase:323 - testlogINFO method called : Starting TC_001_CreditRiskAdd ON DATASET1 *** DESKTOP ***   ***   *** CHROME scenario
+2023-07-27 17:56:42 INFO  TestBase:393 - Chrome setup done
+2023-07-27 17:56:45 INFO  TestBase:396 - Chrome driver initialized
+2023-07-27 17:56:45 INFO  TestBase:323 - http://10.251.16.110:5601/3ibank/index.html URL launched
+2023-07-27 17:56:48 INFO  TestBase:323 - assingCategory method called : CreditRisk
+2023-07-27 17:56:48 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:56:48 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //input[@id='username']]
+2023-07-27 17:56:48 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:48 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:49 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:49 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:49 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:49 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:49 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:56:50 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:56:50 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //input[@id='password']]
+2023-07-27 17:56:50 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:50 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:50 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:50 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:50 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:50 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:50 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:56:52 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:56:52 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //input[@id='card']]
+2023-07-27 17:56:52 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:52 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:52 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:52 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:56:52 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:52 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:56:52 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:56:54 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:56:54 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //button[@id='login_btn']]
+2023-07-27 17:56:55 INFO  FalconActions:148 - Total time (in Seconds) is :7.0
+2023-07-27 17:56:55 INFO  ResponseExcel:30 - ****************************************************************
+2023-07-27 17:56:55 INFO  ResponseExcel:67 - ================ Preparing Data ================
+2023-07-27 17:56:55 INFO  ResponseExcel:68 - Page Name 	===> Login Page
+2023-07-27 17:56:55 INFO  ResponseExcel:69 - Start Time ===> 2023/07/27 17:56:48
+2023-07-27 17:56:55 INFO  ResponseExcel:70 - End Time 	===> 2023/07/27 17:56:55
+2023-07-27 17:56:55 INFO  ResponseExcel:71 - Execution Time ===> 7.0
+2023-07-27 17:56:55 INFO  ResponseExcel:73 - ****************************************************************
+2023-07-27 17:56:55 INFO  ResponseExcel:95 - Writing of ResponseTimes report done
+2023-07-27 17:56:55 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //button[text()='Apply Now']]
+2023-07-27 17:56:56 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:56:56 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //button[text()='Apply Now']]
+2023-07-27 17:57:00 INFO  FalconActions:208 - Total time (in Seconds) is :5.0
+2023-07-27 17:57:00 INFO  ResponseExcel:30 - ****************************************************************
+2023-07-27 17:57:00 INFO  ResponseExcel:67 - ================ Preparing Data ================
+2023-07-27 17:57:00 INFO  ResponseExcel:68 - Page Name 	===> addEngrdCreditRisk
+2023-07-27 17:57:00 INFO  ResponseExcel:69 - Start Time ===> 2023/07/27 17:56:55
+2023-07-27 17:57:00 INFO  ResponseExcel:70 - End Time 	===> 2023/07/27 17:57:00
+2023-07-27 17:57:00 INFO  ResponseExcel:71 - Execution Time ===> 5.0
+2023-07-27 17:57:00 INFO  ResponseExcel:73 - ****************************************************************
+2023-07-27 17:57:00 INFO  ResponseExcel:95 - Writing of ResponseTimes report done
+2023-07-27 17:57:00 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //img[@id='profileimg']]
+2023-07-27 17:57:00 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:00 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //img[@id='profileimg']]
+2023-07-27 17:57:02 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:02 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (7292805e4e08371d8802fb18adfc49f5)] -> xpath: //a/span[text()='Logout']]
+2023-07-27 17:57:03 INFO  ResponseExcel:30 - ****************************************************************
+2023-07-27 17:57:03 INFO  ResponseExcel:67 - ================ Preparing Data ================
+2023-07-27 17:57:03 INFO  ResponseExcel:68 - Page Name 	===> Logout page
+2023-07-27 17:57:03 INFO  ResponseExcel:69 - Start Time ===> 2023/07/27 17:57:00
+2023-07-27 17:57:03 INFO  ResponseExcel:70 - End Time 	===> 2023/07/27 17:57:03
+2023-07-27 17:57:03 INFO  ResponseExcel:71 - Execution Time ===> 3.0
+2023-07-27 17:57:03 INFO  ResponseExcel:73 - ****************************************************************
+2023-07-27 17:57:03 INFO  ResponseExcel:95 - Writing of ResponseTimes report done
+2023-07-27 17:57:03 INFO  TestBase:63 - ===onTestSuccess Start===
+2023-07-27 17:57:03 INFO  TestBase:64 - 1
+2023-07-27 17:57:03 INFO  TestBase:65 - 1
+2023-07-27 17:57:03 INFO  TestBase:68 - TC_001_CreditRiskAdd ON DATASET1 *** DESKTOP ***   ***   *** CHROME test is Pass
+2023-07-27 17:57:07 INFO  TestBase:218 - Screen shot captured from path : D:\FlexibPlus\DigitalAutomation\3i-Bank_FalconFramework/Screenshots/Regv1_Run573_27072023/TC_001_CreditRiskAdd_DataSet1/blank@27_07_2023_17-57-04.png
+2023-07-27 17:57:07 INFO  TestBase:109 - Driver closed
+2023-07-27 17:57:07 INFO  TestBase:305 - AfterMethod started execution for generating report
+2023-07-27 17:57:07 INFO  TestBase:306 - result.getName() : TC_001_CreditRiskAdd ON DATASET1 *** DESKTOP ***   ***   *** CHROME
+2023-07-27 17:57:07 INFO  TestBase:313 - Total time (in Seconds) is :24.922 for method TC_001_CreditRiskAdd ON DATASET1 *** DESKTOP ***   ***   *** CHROME
+2023-07-27 17:57:12 INFO  TestBase:406 - Writing of excel report started
+2023-07-27 17:57:12 INFO  TestBase:992 - ===getTestCasePositionBasedOnScriptName Started====
+2023-07-27 17:57:12 INFO  TestBase:1002 - TC_001_CreditRiskAdd Test Case is present to execute.
+2023-07-27 17:57:12 INFO  TestBase:409 - getTestScriptRowNumstatic : 2
+2023-07-27 17:57:12 INFO  TestBase:423 - TEST CASE AVAILABLE WITH REFERENCE TO TEST SCRIPT
+2023-07-27 17:57:12 INFO  TestBase:435 - !!!!!!!!!!TEST CASE DATA!!!!!!!!!!
+2023-07-27 17:57:12 INFO  TestBase:436 - Test Case id ===> TC_001_CreditRiskAdd
+2023-07-27 17:57:12 INFO  TestBase:437 - Test Case name ===> TC_001_CreditRisk
+2023-07-27 17:57:12 INFO  TestBase:438 - Test Case description ===> Verify user is able to add Credit Risk
+2023-07-27 17:57:12 INFO  TestBase:439 - Test Script name ===> TC_001_CreditRisk
+2023-07-27 17:57:12 INFO  TestBase:440 - !!!!!!!!!!TEST CASE DATA!!!!!!!!!!
+2023-07-27 17:57:13 INFO  TestBase:548 - Writing of excel report done
+2023-07-27 17:57:14 INFO  TestBase:76 - Writing of extent report done
+2023-07-27 17:57:17 INFO  TestBase:561 - Writing of excel ReportResponseTimes started
+2023-07-27 17:57:17 INFO  TestBase:992 - ===getTestCasePositionBasedOnScriptName Started====
+2023-07-27 17:57:17 INFO  TestBase:565 - getTestScriptRowNumstatic1 : 0
+2023-07-27 17:57:17 INFO  TestBase:713 - Writing of ResponseTimes report done
+2023-07-27 17:57:17 INFO  Xls_Reader:1229 - Started===getExcelDataInArrayForProcessing===
+2023-07-27 17:57:17 INFO  TestBase:323 - TESTCASENAME TC_3i_bank_flow
+2023-07-27 17:57:17 INFO  TestBase:323 - createTest method called : TC_3i_bank_flow_DataSet1_Desktop_Chrome
+2023-07-27 17:57:17 INFO  TestBase:323 - testlogINFO method called : Starting TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME scenario
+2023-07-27 17:57:17 INFO  TestBase:393 - Chrome setup done
+2023-07-27 17:57:18 INFO  TestBase:396 - Chrome driver initialized
+2023-07-27 17:57:18 INFO  TestBase:323 - http://10.251.16.110:5601/3ibank/index.html URL launched
+2023-07-27 17:57:21 INFO  TestBase:323 - assingCategory method called : 3i-Bank
+2023-07-27 17:57:21 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='username']]
+2023-07-27 17:57:21 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:21 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='username']]
+2023-07-27 17:57:21 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:21 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:21 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:21 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:21 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:22 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:22 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:23 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:23 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='password']]
+2023-07-27 17:57:23 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:23 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:23 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:23 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:23 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:23 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:23 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:25 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:25 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='card']]
+2023-07-27 17:57:25 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:25 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:25 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:25 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:25 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:25 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:25 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:26 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:26 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //button[@id='login_btn']]
+2023-07-27 17:57:28 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //button[text()='Apply Now']]
+2023-07-27 17:57:28 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:28 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //button[text()='Apply Now']]
+2023-07-27 17:57:30 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:30 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='myCheck']]
+2023-07-27 17:57:31 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:31 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //button[text()='Agree & Continue']]
+2023-07-27 17:57:32 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='firstname']]
+2023-07-27 17:57:33 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:33 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='firstname']]
+2023-07-27 17:57:33 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:33 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:33 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:33 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:33 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:33 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:33 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:34 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:34 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='lastname']]
+2023-07-27 17:57:34 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:34 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:34 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:34 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:34 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:34 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:34 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:36 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:36 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: (//input[@name='gender'])[1]]
+2023-07-27 17:57:37 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:37 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='dob']]
+2023-07-27 17:57:37 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:37 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:37 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:37 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:37 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:37 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:37 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:38 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:38 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='pancard']]
+2023-07-27 17:57:38 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:38 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:38 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:38 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:38 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:39 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:39 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:40 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:40 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='mobileno']]
+2023-07-27 17:57:40 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:40 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:40 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:40 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:40 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:40 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:40 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:41 INFO  FalconActions:66 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:41 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //input[@id='email']]
+2023-07-27 17:57:41 INFO  FalconWebElement:238 - --------	typeTheText wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:41 INFO  FalconWebElement:136 - --------	isDisplayedorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:41 INFO  FalconWebElement:141 - --------	isDisplayedorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:41 INFO  FalconWebElement:161 - --------	isEnabledorNot wrapper method inside MyWebElement class is invoked successfully	--------
+2023-07-27 17:57:41 INFO  FalconWebElement:165 - --------	isEnabledorNot wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:41 INFO  FalconWebElement:245 - --------	typeTheText wrapper method inside MyWebElement class is executed successfully	--------
+2023-07-27 17:57:41 INFO  FalconActions:78 - --------	EnterText wrapper method inside FalconActions class is executed successfully	--------
+2023-07-27 17:57:43 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //div[@class='col-md-9']//button[@type='button'][normalize-space()='Save']]
+2023-07-27 17:57:43 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:43 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //div[@class='col-md-9']//button[@type='button'][normalize-space()='Save']]
+2023-07-27 17:57:44 INFO  FalconActions:1887 - --------	EnterText wrapper method inside FalconActions class is invoked successfully	--------
+2023-07-27 17:57:44 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> css selector: #mystatus]
+2023-07-27 17:57:44 INFO  FalconActions:1897 - Actual and Expected texts are equal: Actual is: <b>Details Saved Successfully</b> and Expected is: <b>Details Saved Successfully</b>
+2023-07-27 17:57:45 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //img[@id='profileimg']]
+2023-07-27 17:57:45 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:45 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //img[@id='profileimg']]
+2023-07-27 17:57:47 INFO  FalconActions:960 - --------	click wrapper method inside MyAction class is invoked successfully	--------
+2023-07-27 17:57:47 INFO  FalconActions:1736 - [[ChromeDriver: chrome on WINDOWS (d777cf8480af0bd76db1eece8297ba87)] -> xpath: //a/span[text()='Logout']]
+2023-07-27 17:57:48 INFO  TestBase:63 - ===onTestSuccess Start===
+2023-07-27 17:57:48 INFO  TestBase:64 - 1
+2023-07-27 17:57:48 INFO  TestBase:65 - 1
+2023-07-27 17:57:48 INFO  TestBase:68 - TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME test is Pass
+2023-07-27 17:57:52 INFO  TestBase:218 - Screen shot captured from path : D:\FlexibPlus\DigitalAutomation\3i-Bank_FalconFramework/Screenshots/Regv1_Run573_27072023/TC_3i_bank_flow_DataSet1/blank@27_07_2023_17-57-49.png
+2023-07-27 17:57:53 INFO  TestBase:109 - Driver closed
+2023-07-27 17:57:53 INFO  TestBase:305 - AfterMethod started execution for generating report
+2023-07-27 17:57:53 INFO  TestBase:306 - result.getName() : TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME
+2023-07-27 17:57:53 INFO  TestBase:313 - Total time (in Seconds) is :36.133 for method TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME
+2023-07-27 17:57:58 INFO  TestBase:406 - Writing of excel report started
+2023-07-27 17:57:58 INFO  TestBase:992 - ===getTestCasePositionBasedOnScriptName Started====
+2023-07-27 17:57:58 INFO  TestBase:1002 - TC_3i_bank_flow Test Case is present to execute.
+2023-07-27 17:57:58 INFO  TestBase:409 - getTestScriptRowNumstatic : 3
+2023-07-27 17:57:58 INFO  TestBase:423 - TEST CASE AVAILABLE WITH REFERENCE TO TEST SCRIPT
+2023-07-27 17:57:58 INFO  TestBase:435 - !!!!!!!!!!TEST CASE DATA!!!!!!!!!!
+2023-07-27 17:57:58 INFO  TestBase:436 - Test Case id ===> TC_3i_bank_flow
+2023-07-27 17:57:58 INFO  TestBase:437 - Test Case name ===> TC_3i_bank_flow
+2023-07-27 17:57:58 INFO  TestBase:438 - Test Case description ===> TC_3i_bank_flow
+2023-07-27 17:57:58 INFO  TestBase:439 - Test Script name ===> TC_3i_bank_flow
+2023-07-27 17:57:58 INFO  TestBase:440 - !!!!!!!!!!TEST CASE DATA!!!!!!!!!!
+2023-07-27 17:57:59 INFO  TestBase:548 - Writing of excel report done
+2023-07-27 17:57:59 INFO  TestBase:76 - Writing of extent report done
+2023-07-27 17:58:02 INFO  TestBase:561 - Writing of excel ReportResponseTimes started
+2023-07-27 17:58:02 INFO  TestBase:992 - ===getTestCasePositionBasedOnScriptName Started====
+2023-07-27 17:58:02 INFO  TestBase:565 - getTestScriptRowNumstatic1 : 0
+2023-07-27 17:58:02 INFO  TestBase:713 - Writing of ResponseTimes report done
+2023-07-27 17:58:02 INFO  TestBase:863 - RECORDINGGGGGGGGGGGGGGGGGGGGGGGGG NOT NEEDED
+2023-07-27 17:58:02 INFO  TestBase:1022 - Total time for class (in Seconds) is :1.69048064E9
+2023-07-27 17:58:02 INFO  UtilityMethods:1346 - Move directory from D:\FlexibPlus\DigitalAutomation\3i-Bank_FalconFramework\ExcelData\TestCases.xlsx to D:\FlexibPlus\DigitalAutomation\3i-Bank_FalconFramework\Report\Regv1_Run573_27072023
+2023-07-27 17:58:02 INFO  TestBase:1025 - After Class Setting RunCount
+2023-07-27 17:58:02 INFO  TestBase:1028 - ********************************
+2023-07-27 17:58:02 INFO  TestBase:1029 - 573
+2023-07-27 17:58:02 INFO  TestBase:722 - ===========setProperyValue Start=================
+2023-07-27 17:58:02 INFO  TestBase:723 - sProperty : runcount
+2023-07-27 17:58:02 INFO  TestBase:724 - sValue : 574
+2023-07-27 17:58:02 INFO  TestBase:729 - Updating runcount Property with value 574
+2023-07-27 17:58:02 INFO  TestBase:731 - ===========setProperyValue End=================

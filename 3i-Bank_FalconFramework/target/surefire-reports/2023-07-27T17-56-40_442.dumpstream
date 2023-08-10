@@ -1,0 +1,4 @@
+# Created at 2023-07-27T17:56:40.786
+Boot Manifest-JAR contains absolute paths in classpath 'D:\FlexibPlus\DigitalAutomation\3i-Bank_FalconFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

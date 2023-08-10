@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-27T17:56:42Z" name="Regression suite" finished-at="2023-07-27T17:58:02Z" duration-ms="79637">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T17:56:42Z" name="Falcon test" finished-at="2023-07-27T17:58:02Z" duration-ms="79637">
+      <class name="com.falcon.TestCases.TC_001_CreditRisk">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:56:42Z" name="beforeSuite" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:56:42Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:56:42Z" name="BeforeClass" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:56:42Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:56:42Z" name="BeforeMethod" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:56:42Z" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.falcon.TestCases.TC_001_CreditRisk.TC_001_CreditRiskAdd(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@1b1252c8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="TC_001_CreditRiskAdd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:56:42Z" name="TC_001_CreditRiskAdd" description="User is Creating Account with IDV and IDA APPROVAL" data-provider="EnvironMentDeviceOSVersionAndBrowser" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:03Z" duration-ms="21041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DataSet1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_CreditRiskAdd -->
+        <test-method is-config="true" signature="AfterMethodExecuteThis(org.testng.ITestResult)[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:57:07Z" name="AfterMethodExecuteThis" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:09Z" duration-ms="2006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_001_CreditRiskAdd ON DATASET1 *** DESKTOP ***   ***   *** CHROME status=SUCCESS method=TC_001_CreditRisk.TC_001_CreditRiskAdd(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodExecuteThis -->
+        <test-method is-config="true" signature="flushh()[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:57:09Z" name="flushh" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:17Z" duration-ms="7332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushh -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:58:02Z" name="endTest" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:58:02Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.falcon.TestCases.TC_001_CreditRisk@d78795]" started-at="2023-07-27T17:58:02Z" name="afterSuite" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:58:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.falcon.TestCases.TC_001_CreditRisk -->
+      <class name="com.falcon.TestCases.TC_3i_bank_flow">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.falcon.TestCases.TC_3i_bank_flow@21694e53]" started-at="2023-07-27T17:57:17Z" name="BeforeClass" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.falcon.TestCases.TC_3i_bank_flow@21694e53]" started-at="2023-07-27T17:57:17Z" name="BeforeMethod" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:17Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.falcon.TestCases.TC_3i_bank_flow.TC_3i_bank_flow(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@19d53ab4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="TC_3i_bank_flow(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.falcon.TestCases.TC_3i_bank_flow@21694e53]" started-at="2023-07-27T17:57:17Z" name="TC_3i_bank_flow" description="User is Creating Account with IDV and IDA APPROVAL" data-provider="EnvironMentDeviceOSVersionAndBrowser" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:48Z" duration-ms="31821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DataSet1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_3i_bank_flow -->
+        <test-method is-config="true" signature="AfterMethodExecuteThis(org.testng.ITestResult)[pri:0, instance:com.falcon.TestCases.TC_3i_bank_flow@21694e53]" started-at="2023-07-27T17:57:53Z" name="AfterMethodExecuteThis" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:57:55Z" duration-ms="2002" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME status=SUCCESS method=TC_3i_bank_flow.TC_3i_bank_flow(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.falcon.TestCases.TC_3i_bank_flow@21694e53] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethodExecuteThis -->
+        <test-method is-config="true" signature="flushh()[pri:0, instance:com.falcon.TestCases.TC_3i_bank_flow@21694e53]" started-at="2023-07-27T17:57:55Z" name="flushh" test-instance-name="TC_3i_bank_flow ON DATASET1 *** DESKTOP ***   ***   *** CHROME" finished-at="2023-07-27T17:58:02Z" duration-ms="6856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushh -->
+      </class> <!-- com.falcon.TestCases.TC_3i_bank_flow -->
+    </test> <!-- Falcon test -->
+  </suite> <!-- Regression suite -->
+</testng-results>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.falcon.utils.RetryListenerClass"/>
+  </listeners>
+  <method-selectors>
+  <method-selector>
+    <script language="beanshell">
+      <![CDATA[System.setProperty("testng.metrics.logo",
+             "https://www.3i-infotech.com/wp-content/uploads/2021/04/3I-infotech-logo.png");return true;]]>
+    </script>
+  </method-selector>
+  </method-selectors>
+  <test thread-count="5" name="Falcon test(failed)">
+    <method-selectors>
+      <method-selector>
+        <script language="BeanShell">
+          <![CDATA[System.setProperty("testng.metrics.logo",
+             "https://www.3i-infotech.com/wp-content/uploads/2021/04/3I-infotech-logo.png");return true;]]>
+        </script>
+      </method-selector>
+    </method-selectors>
+    <classes>
+      <class name="com.falcon.TestCases.TC_001_CreditRisk">
+        <methods>
+          <include name="endTest"/>
+          <include name="BeforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="AfterMethodExecuteThis"/>
+          <include name="afterSuite"/>
+          <include name="TC_001_CreditRiskAdd" invocation-numbers="0"/>
+          <include name="flushh"/>
+          <include name="BeforeClass"/>
+        </methods>
+      </class> <!-- com.falcon.TestCases.TC_001_CreditRisk -->
+    </classes>
+  </test> <!-- Falcon test(failed) -->
+</suite> <!-- Failed suite [Regression suite] -->
