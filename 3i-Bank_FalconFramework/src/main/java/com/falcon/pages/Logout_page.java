@@ -33,7 +33,7 @@ public class Logout_page extends FalconActions {
 	@FindBy (how=How.XPATH, using = "(//ul[@class='navbar-nav']//a[@id='navbarDropdown'])[2]")
 	public static WebElement btn_MouseHower_ToLogOut;
 	
-	@FindBy (how=How.XPATH, using = "//a/span[text()='Logout12345']")
+	@FindBy (how=How.XPATH, using = "//a/span[text()='Logout']")
 	public static WebElement btn_SignOut;
 	
 	@FindBy (how=How.XPATH, using = "//img[@id='profileimg']")
